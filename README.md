@@ -16,4 +16,4 @@ a set of simple FOSS tools for Linux (mainly Arch Linux)
 * read the 'README' file for instructions: (e.g. `cat ./README`)
 
 &nbsp;
-###### { jstmax! } @ { 62 69 74 2E 6C 79 2F 6D 78 5F 69 6E 66 6F }
+###### jstmax@62-69-74-2E-6C-79-2F-6D-78-5F-69-6E-66-6F
